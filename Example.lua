@@ -1,7 +1,7 @@
-local Fluent = loadstring(game:HttpGet("https://raw.githubusercontent.com/exxing/Fluent/main/Main.lua?v=" .. tostring(math.random())))()
-local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/exxing/Fluent/main/Addons/SaveManager.lua?v=" .. tostring(math.random())))()
-local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/exxing/Fluent/main/Addons/InterfaceManager.lua?v=" .. tostring(math.random())))()
-local ButtonManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/exxing/Fluent/main/Addons/ButtonManager.lua?v=" .. tostring(math.random())))()
+local Fluent = loadstring(game:HttpGet("https://raw.githubusercontent.com/versionmadeby/Fluent/main/Main.lua?v=" .. tostring(math.random())))()
+local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/versionmadeby/Fluent/main/Addons/SaveManager.lua?v=" .. tostring(math.random())))()
+local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/versionmadeby/Fluent/main/Addons/InterfaceManager.lua?v=" .. tostring(math.random())))()
+local ButtonManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/versionmadeby/Fluent/main/Addons/ButtonManager.lua?v=" .. tostring(math.random())))()
 
 local Window = Fluent:CreateWindow({
 	Title = "Fluent " .. Fluent.Version,
